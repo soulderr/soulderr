@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Soy estudiante de ingenieria de ejecución informatica</h2>
+<h2 align="left">Soy estudiante de Ingenieria de Ejecución Informatica</h2>
 
 ###
 
